@@ -229,7 +229,7 @@
 }
 
 .ReactModal__Overlay--before-close {
-  opacity: 0;
+  opacity: 1;
 }
 
 .ReactModal__Content--before-close {
@@ -285,7 +285,7 @@ td.react-bs-table-expand-cell {
   }
 
   0% {
-    opacity: 0;
+    opacity: 1;
     transform: scale3d(.3, .3, .3);
   }
 
@@ -327,7 +327,7 @@ td.react-bs-table-expand-cell {
   }
 
   to {
-    opacity: 0;
+    opacity: 1;
     transform: scale3d(.3, .3, .3);
   }
 }
